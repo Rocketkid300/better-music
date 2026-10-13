@@ -1,7 +1,7 @@
 # Changelog
 
-## 1.0.0
-First public release.
+## 1.0.0 beta 1
+First public release, as a beta: tested on one device (iPhone 7 Plus, iOS 15.8.3). Please report bugs.
 
 - Album and playlist pages: whole-page tint from the cover colour, round Shuffle and + buttons with a wide Play pill,
   glass back button and top-right capsule, iOS 26 style info line, cover-coloured accents

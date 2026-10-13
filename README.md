@@ -3,6 +3,9 @@
 **The iOS 26 look for the Apple Music app on iOS 15.** A tweak for jailbroken iPhones (Dopamine, rootless), made by
 [rocketkid300](https://github.com/Rocketkid300).
 
+> **Beta (1.0.0~beta1).** It works well on the one device I tested, but it is a beta. If something looks wrong, turn on
+> **Settings → Better Music → Safe mode** and open an issue. Feedback is very welcome.
+
 ## Install (Sileo or Zebra)
 
 Add this repo, then search for **Better Music**:

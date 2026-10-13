@@ -1,6 +1,6 @@
 Package: com.rocketkid300.bettermusic
 Name: Better Music
-Version: 1.0.0
+Version: 1.0.0~beta1
 Architecture: iphoneos-arm64
 Description: iOS 26 look for Apple Music on iOS 15 - album pages, lyrics, lock screen player
 Maintainer: rocketkid300 <rocketkid300@users.noreply.github.com>
